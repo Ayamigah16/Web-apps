@@ -2,13 +2,19 @@
 This repository contains a collection of web development projects that showcase my skills and expertise in various areas of web development. Each project is designed to demonstrate different aspects of web development, including front-end design, back-end development, database management, and more.
 
 ## Projects
-**EasyCalc:** A simple and an intuitive interface for performing calculations..
+* **EasyCalc:** A simple and an intuitive interface for performing calculations..
 
 *Technologies used:* HTML, CSS, JavaScript
 *Description:*  The projects allows users to perform basic arithmetic calculations.
 *Features:*  Performs Addition, Subtraction, Multiplication and Division.
+
+* **SecurePass:** A secure and random passwords generator based on user-specified criteria.
+
+*Technologies used:* HTML, CSS, JavaScript
+*Description:*  The project provides a convenient and customizable way to create strong passwords
+*Features:*  Has a User-friendly interface and also allows customizability.
  
- 
+
 ## Getting Started
 1. Clone the repository:
 
@@ -22,10 +28,14 @@ cd **project-folder**
 
 
 ## Contributions
-Contributions to the projects are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
+1. Fork the repository.
+2. Create a new branch: **git checkout -b feature/your-feature-name**.
+3. Make your changes and commit them.
+4. Push to the branch: **git push origin feature/your-feature-name**.
+5. Submit a pull request.
 
-## License
 This repository is licensed under the **MIT License**. You are free to use, modify, and distribute the code for personal and commercial purposes. Please see the License file for more details.
 
 ## Contact
