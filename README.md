@@ -2,28 +2,13 @@
 This repository contains a collection of web development projects that showcase my skills and expertise in various areas of web development. Each project is designed to demonstrate different aspects of web development, including front-end design, back-end development, database management, and more.
 
 ## Projects
-**Project 1:** Description of the first web development project.
+**EasyCalc:** A simple and an intuitive interface for performing calculations..
 
-Technologies used: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
-Description: Brief overview and purpose of the project.
-Features: List of key features implemented in the project.
-Screenshots: Screenshots or visuals showcasing the project.
-
-**Project 2:** Description of the second web development project.
-
-*Technologies used:* HTML, CSS, React.js, Redux, Firebase
-*Description:* Brief overview and purpose of the project.
-*Features:* List of key features implemented in the project.
-*Screenshots:* Screenshots or visuals showcasing the project.
-
-**Project 3:** Description of the third web development project.
-
-*Technologies used:* HTML, CSS, Python, Django, PostgreSQL
-*Description:* Brief overview and purpose of the project.
-*Features:* List of key features implemented in the project.
-*Screenshots:* Screenshots or visuals showcasing the project.
-
-
+*Technologies used:* HTML, CSS, JavaScript
+*Description:*  The projects allows users to perform basic arithmetic calculations.
+*Features:*  Performs Addition, Subtraction, Multiplication and Division.
+ 
+ 
 ## Getting Started
 1. Clone the repository:
 
