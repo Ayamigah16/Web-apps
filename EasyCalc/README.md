@@ -9,8 +9,8 @@ This is a calculator project that allows users to perform basic arithmetic calcu
 * Clear: Clear the calculator's input field.
 
 ## Installation
-- Clone the repository:  **https://github.com/Ayamigah16/Web-apps.git**
-- Navigate to the project directory: cd **EasyCalc**
+- Clone the repository:  ***https://github.com/Ayamigah16/Web-apps.git***
+- Navigate to the project directory: cd ***EasyCalc***
 - Run the project: [insert instructions for running the project here]
 
 
