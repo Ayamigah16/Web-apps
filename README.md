@@ -2,16 +2,22 @@
 This repository contains a collection of web development projects that showcase my skills and expertise in various areas of web development. Each project is designed to demonstrate different aspects of web development, including front-end design, back-end development, database management, and more.
 
 ## Projects
-* **EasyCalc:** A simple and an intuitive interface for performing calculations..
+1. **EasyCalc:** A simple and an intuitive interface for performing calculations..
 
 *Technologies used:* HTML, CSS, JavaScript
 *Description:*  The projects allows users to perform basic arithmetic calculations.
 *Features:*  Performs Addition, Subtraction, Multiplication and Division.
 
-* **SecurePass:** A secure and random passwords generator based on user-specified criteria.
+2. **SecurePass:** A secure and random passwords generator based on user-specified criteria.
 
 *Technologies used:* HTML, CSS, JavaScript
 *Description:*  The project provides a convenient and customizable way to create strong passwords
+*Features:*  Has a User-friendly interface and also allows customizability.
+
+2. **TimePulse:**  A visual representation of the remaining time for the current year.
+
+*Technologies used:* HTML, CSS, JavaScript
+*Description:*  The project displays the remaining time of the current year visually.
 *Features:*  Has a User-friendly interface and also allows customizability.
  
 

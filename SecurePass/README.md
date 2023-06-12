@@ -4,13 +4,16 @@ The Password Generator is a web-based application built using HTML, CSS, and Jav
 ## Features
 * Password Length: Set the desired length of the generated password.
 * Character Types: Specify the types of characters to include in the password, such as uppercase letters, lowercase letters, numbers, and special characters.
-
 * Randomness: Utilize a random number generator in JavaScript to ensure the generated passwords are highly unpredictable.
-
 * Customizability: Configure the password generator based on your specific requirements and security guidelines.
-
 * User-friendly Interface: Interact with the password generator through a simple and intuitive web-based interface.
 
+
+## Installation
+To use the countdown timer project, follow these steps:
+
+1. Clone the repository: git clone ***https://github.com/Ayamigah16/Web-apps.git***
+2. Navigate to the project directory: cd ***SecurePass***
 
 ## Usage
 1. Clone or download the repository to your local machine.
